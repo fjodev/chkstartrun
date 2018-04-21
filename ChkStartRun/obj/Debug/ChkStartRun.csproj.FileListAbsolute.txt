@@ -1,0 +1,14 @@
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Debug\ChkStartRun.exe.config
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Debug\ChkStartRun.exe
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Debug\ChkStartRun.pdb
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.exe
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.pdb
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Debug\ChkStartRun.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Debug\ChkStartRun.application
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.TrustInfo.xml
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.application
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Debug\ChkStartRun.frmDiffShow.resources

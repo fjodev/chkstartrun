@@ -1,0 +1,221 @@
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:21:47
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Usado o switch /m - modo manutenção (registo programas não efetuado)
+Registo de programas de arranque não efetuado
+csr-FLAPC5-Fernando.txt inexistente
+csr-FLAPC5-Fernando.bak inexistente
+Comparaçao não efetuada
+Apresentação do ecrã de diferenças
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:22:00
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Usado o switch /v - modo verbose (apresentação ecrã diferenças)
+64 bit Operating System
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Registados 4 itens pertencentes a 6 chaves de registo em csr-FLAPC5-Fernando.txt
+Sucesso na leitura da diretoria: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+Sucesso na leitura da diretoria: C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Registados 5 ficheiros pertencentes a 2 diretorias em csr-FLAPC5-Fernando.txt
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak inexistente
+Ficheiro csr-FLAPC5-Fernando.bak inexistente: criado um novo
+Ficheiro csr-FLAPC5-Fernando.bak inexistente: comparação não efetuada
+Apresentação do ecrã de diferenças
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:22:10
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Usado o switch /v - modo verbose (apresentação ecrã diferenças)
+64 bit Operating System
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Registados 4 itens pertencentes a 6 chaves de registo em csr-FLAPC5-Fernando.txt
+Sucesso na leitura da diretoria: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+Sucesso na leitura da diretoria: C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Registados 5 ficheiros pertencentes a 2 diretorias em csr-FLAPC5-Fernando.txt
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak existente
+Inicio da análise de diferenças de csr-FLAPC5-Fernando.txt com csr-FLAPC5-Fernando.bak
+Não foram encontradas diferenças
+Apresentação do ecrã de diferenças
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:22:40
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Nenhum switch usado
+64 bit Operating System
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Registados 4 itens pertencentes a 6 chaves de registo em csr-FLAPC5-Fernando.txt
+Sucesso na leitura da diretoria: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+Sucesso na leitura da diretoria: C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Registados 5 ficheiros pertencentes a 2 diretorias em csr-FLAPC5-Fernando.txt
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak existente
+Inicio da análise de diferenças de csr-FLAPC5-Fernando.txt com csr-FLAPC5-Fernando.bak
+Tamanhos diferentes
+Linha desaparecida: Número total de itens = 7
+Nova linha: reg -> Certificate Import: C:\Program Files\Cartão de Cidadão\PtEidTrayApplet.exe
+Nova linha: sm -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\ChkStartRun.lnk
+Nova linha: Número total de itens = 9
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:22:46
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Nenhum switch usado
+64 bit Operating System
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Registados 4 itens pertencentes a 6 chaves de registo em csr-FLAPC5-Fernando.txt
+Sucesso na leitura da diretoria: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+Sucesso na leitura da diretoria: C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Registados 5 ficheiros pertencentes a 2 diretorias em csr-FLAPC5-Fernando.txt
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak existente
+Inicio da análise de diferenças de csr-FLAPC5-Fernando.txt com csr-FLAPC5-Fernando.bak
+Tamanhos diferentes
+Linha desaparecida: Número total de itens = 7
+Nova linha: reg -> Certificate Import: C:\Program Files\Cartão de Cidadão\PtEidTrayApplet.exe
+Nova linha: sm -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\ChkStartRun.lnk
+Nova linha: Número total de itens = 9
+Apresentação do ecrã de diferenças
+Alterações aos programas de arranque não foram confirmadas.
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:25:11
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Nenhum switch usado
+64 bit Operating System
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Registados 4 itens pertencentes a 6 chaves de registo em csr-FLAPC5-Fernando.txt
+Sucesso na leitura da diretoria: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+Sucesso na leitura da diretoria: C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Registados 5 ficheiros pertencentes a 2 diretorias em csr-FLAPC5-Fernando.txt
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak existente
+Inicio da análise de diferenças de csr-FLAPC5-Fernando.txt com csr-FLAPC5-Fernando.bak
+Tamanhos diferentes
+Linha desaparecida: Número total de itens = 7
+Nova linha: reg -> Certificate Import: C:\Program Files\Cartão de Cidadão\PtEidTrayApplet.exe
+Nova linha: sm -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\ChkStartRun.lnk
+Nova linha: Número total de itens = 9
+Visualização das diferenças não realizada
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:25:15
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Nenhum switch usado
+64 bit Operating System
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Registados 4 itens pertencentes a 6 chaves de registo em csr-FLAPC5-Fernando.txt
+Sucesso na leitura da diretoria: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+Sucesso na leitura da diretoria: C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Registados 5 ficheiros pertencentes a 2 diretorias em csr-FLAPC5-Fernando.txt
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak existente
+Inicio da análise de diferenças de csr-FLAPC5-Fernando.txt com csr-FLAPC5-Fernando.bak
+Tamanhos diferentes
+Linha desaparecida: Número total de itens = 7
+Nova linha: reg -> Certificate Import: C:\Program Files\Cartão de Cidadão\PtEidTrayApplet.exe
+Nova linha: sm -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\ChkStartRun.lnk
+Nova linha: Número total de itens = 9
+Apresentação do ecrã de diferenças
+Alterações aos programas de arranque não foram confirmadas.
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:25:53
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Nenhum switch usado
+64 bit Operating System
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Registados 4 itens pertencentes a 6 chaves de registo em csr-FLAPC5-Fernando.txt
+Sucesso na leitura da diretoria: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+Sucesso na leitura da diretoria: C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Registados 5 ficheiros pertencentes a 2 diretorias em csr-FLAPC5-Fernando.txt
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak existente
+Inicio da análise de diferenças de csr-FLAPC5-Fernando.txt com csr-FLAPC5-Fernando.bak
+Tamanhos diferentes
+Linha desaparecida: Número total de itens = 7
+Nova linha: reg -> Certificate Import: C:\Program Files\Cartão de Cidadão\PtEidTrayApplet.exe
+Nova linha: sm -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\ChkStartRun.lnk
+Nova linha: Número total de itens = 9
+Apresentação do ecrã de diferenças
+Ficheiro de backup foi atualizado com novos programas de arranque.
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 18:31:16
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Usado o switch /m - modo manutenção (registo programas não efetuado)
+Registo de programas de arranque não efetuado
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak existente
+Inicio da análise de diferenças de csr-FLAPC5-Fernando.txt com csr-FLAPC5-Fernando.bak
+Não foram encontradas diferenças
+Apresentação do ecrã de diferenças
+Fim de programa.
+--------- ChkStartRun, versão 1.1.0.0 --- 
+23-10-2012 22:51:46
+Nome de Utilizador: Fernando
+Nome de computador: FLAPC5
+Usado o switch /v - modo verbose (apresentação ecrã diferenças)
+64 bit Operating System
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Sucesso na leitura da chave: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+Registados 4 itens pertencentes a 6 chaves de registo em csr-FLAPC5-Fernando.txt
+Sucesso na leitura da diretoria: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+Sucesso na leitura da diretoria: C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Registados 5 ficheiros pertencentes a 2 diretorias em csr-FLAPC5-Fernando.txt
+csr-FLAPC5-Fernando.txt existente
+csr-FLAPC5-Fernando.bak existente
+Inicio da análise de diferenças de csr-FLAPC5-Fernando.txt com csr-FLAPC5-Fernando.bak
+Não foram encontradas diferenças
+Apresentação do ecrã de diferenças
+Fim de programa.

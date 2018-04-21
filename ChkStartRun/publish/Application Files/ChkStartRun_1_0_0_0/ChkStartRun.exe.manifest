@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="ChkStartRun.exe" publicKeyToken="7109bfcd8faa1fb9" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ChkStartRun" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ChkStartRun.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChkStartRun.exe" size="12288">
+      <assemblyIdentity name="ChkStartRun" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qtlLABeCE42VqNZ/zM6M3rnd9sMsraLmzdyH8kzlFTI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ChkStartRun.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=FLAPC5\Fernando" issuerKeyHash="d1616a041226d8619e26227343f4e4916b25312f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><DigestValue>mCxMvEFrGrE6cum2r+VPAkz4oJejJqmEHoc0NDRXFcM=</DigestValue></Reference></SignedInfo><SignatureValue>VCPQ4MWefqeDTxmeXdeWd3FUNSw035rQcfZKL53+t98ZefYVOdg7CRRP3pWqM31pa8cHnqyvk9DioQBPOFuUVl5RnicCT8QlXk4V4/ZdSUM/11/22iRjLPFHnmtIIUDafbQxelB6S3ODDWaqSSTK40sjfkoabsPiLO3GtZEIVZU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v+pH7wPsAcG6p/e9XWromamaCaQ5mjvju5bzkXzpyFlXpYDpiIwZQ46GQ90sp0iy3oMq5eoV9scXbk3jfOFG9/Rkc+6wPiVF7AAehS2KvMcx8lWrueeIPqPy7JdVdRoq7IYec6zbwvwVhga83M07NXR+RaqfFYp3O2QE9o28oE0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c31557343434871e84a926a397a0f84c024fe5afb6e9723ab11a6b41bc4c2c98" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="ChkStartRun.exe" publicKeyToken="7109bfcd8faa1fb9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=FLAPC5\Fernando</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><DigestValue>Ry5LeXVswgHdErOgmXGgVxsLowA0pl9VHUdrDyIFthE=</DigestValue></Reference></SignedInfo><SignatureValue>OM9dUzup6efzEgzeAIGDNOFhEiUQy6kRLPeqI8SlE7wiSG6VhzR/xyjsREjzNT4acSlGizq39n1Z7JeXuhnOQ4Qaf25bcT3kLsH0liRZizqqiIQqgLDEyMIjn+dMYnWWm/fVCnyZg1sm90PT9nO+YcQVs7RgRJIgIvAKG3gZI2E=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tsCGsSw3U2HG7p76OgjRMoHRHqcFAAybBlwrkUARj5SLDDLnOwkPLUIqRkSH2Bz/k1pOPp+G1h5E1kIgmsD7Z1387gNOq98WDejDEuGrpBLVZ4HgdPez6cC4qSycoInF8DduzfLx5JIbY+aXeEEeeXojhq2Swq2X5Xnr8zJtJFU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQWe83D/qPootCQk5gWgiXIjANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ARgBMAEEAUABDADUAXABGAGUAcgBuAGEAbgBkAG8wHhcNMTIxMDE4MTYxMDQwWhcNMTMxMDE4MjIxMDQwWjApMScwJQYDVQQDHh4ARgBMAEEAUABDADUAXABGAGUAcgBuAGEAbgBkAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL/qR+8D7AHBuqf3vV1q6JmpmgmkOZo747uW85F86chZV6WA6YiMGUOOhkPdLKdIst6DKuXqFfbHF25N43zhRvf0ZHPusD4lRewAHoUtirzHMfJVq7nniD6j8uyXVXUaKuyGHnOs28L8FYYGvNzNOzV0fkWqnxWKdztkBPaNvKBNAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAVOKyxn9RgFqjWfwHlwGT5KuHJn6evT8wk1T9OTgF7aDVmScKGnrJqSD0ZuH9TmJgUe+24YrPCfLnUsVKNWwIRPJMRQfNibclwmCPPhcFmCOMgJrBnIBScoUPmBj/w4bMPkOEw0azyZIz8omBhHcTGHU+95QX3XbnsuI7hzX4LB4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

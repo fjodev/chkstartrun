@@ -1,0 +1,18 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+reg -> Certificate Import: C:\Program Files\Cartão de Cidadão\PtEidTrayApplet.exe
+reg -> MSC: "c:\Program Files\Microsoft Security Client\msseces.exe" -hide -runkey
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\Run
+reg -> LogitechQuickCamRibbon: "C:\Program Files\Logitech\Logitech WebCam Software\LWS.exe" /hide
+reg -> SunJavaUpdateSched: "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432node\Microsoft\Windows\CurrentVersion\RunOnce
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+sm -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\ChkStartRun.lnk
+sm -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+sm -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\HP Digital Imaging Monitor.lnk
+C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+sm -> C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+sm -> C:\Users\Fernando\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Recortes de Ecrã e Iniciador do OneNote 2010.lnk
+Número total de itens = 9

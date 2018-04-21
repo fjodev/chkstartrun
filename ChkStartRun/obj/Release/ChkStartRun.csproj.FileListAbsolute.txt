@@ -1,0 +1,28 @@
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.exe.config
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.application
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.exe
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.pdb
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.frmDiffShow.resources
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.TrustInfo.xml
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.exe.manifest
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.application
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.exe
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.pdb
+C:\Users\Fernando\Documents\Visual Studio 11\Projects\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.exe.config
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.exe.manifest
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.application
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.exe
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\bin\Release\ChkStartRun.pdb
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.frmDiffShow.resources
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.Properties.Resources.resources
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.TrustInfo.xml
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.exe.manifest
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.application
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.exe
+C:\Users\Fernando\Documents\Projetos\ChkStartRun\ChkStartRun\obj\Release\ChkStartRun.pdb
